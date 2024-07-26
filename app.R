@@ -1,13 +1,23 @@
 # libraries
+#install.packages("shiny")
 library(shiny)
+#install.packages("tidyverse")
 library(tidyverse)
+#install.packages("nflfastR")
 library(nflfastR)
+#install.packages("gt")
 library(gt)
+#install.packages("gtExtras")
 library(gtExtras)
+#install.packages("scales")
 library(scales)
+#install.packages("ggimage")
 library(ggimage)
+#install.packages("stringr")
 library(stringr)
+#install.packages("dplyr")
 library(dplyr)
+#install.packages("nflreadr")
 library(nflreadr)
 
 # UI
